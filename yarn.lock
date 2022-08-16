@@ -235,6 +235,13 @@
   dependencies:
     "@chakra-ui/utils" "2.0.8"
 
+"@chakra-ui/icons@^2.0.8":
+  version "2.0.8"
+  resolved "https://registry.yarnpkg.com/@chakra-ui/icons/-/icons-2.0.8.tgz#38659b322165566806a8e7a9f1e0d38fa15128f1"
+  integrity sha512-otX85/laLd9rC26EsaRK/QufXxclfK/JGw3vdxh+sEULFgwuC56tUzmXTwIt8GcDIx/LvZBkDgkXN0sn6Cqmog==
+  dependencies:
+    "@chakra-ui/icon" "3.0.8"
+
 "@chakra-ui/image@2.0.9":
   version "2.0.9"
   resolved "https://registry.yarnpkg.com/@chakra-ui/image/-/image-2.0.9.tgz#4ace3de5cfcad66bbf7fa87d78c5476d281b8cbe"
@@ -3466,11 +3473,6 @@ v8-compile-cache@^2.0.3:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/v8-compile-cache/-/v8-compile-cache-2.3.0.tgz#2de19618c66dc247dcfb6f99338035d8245a2cee"
   integrity sha512-l8lCEmLcLYZh4nbunNZvQCJc5pv7+RCwa8q/LdUx8u7lsWvPDKmpodJAJNwkAhJC//dFY48KuIEmjtd4RViDrA==
-
-vim@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/vim/-/vim-0.1.0.tgz#ddec872bc8a934cc5167c23f9dbce4839c1699a7"
-  integrity sha512-tQNRomu+LJGGqpzvkmj52S3Q3qfSnf1PJzUzEomYQaoXB7puEOrbqqiK18Xc11z8Tk+c5zdRemX88c+E/bkVww==
 
 warning@^4.0.2:
   version "4.0.3"
